@@ -9,14 +9,17 @@ List of podcasts which are helpful for security engineers.
 
 ## Podcasts list
 
-* [Demo Podcasts Name](https://Podcasts.)
+* [Demo Podcasts Name](https://Podcasts.website)
   * **Since-Latest** : 2000 ~ 2022/ing
   * **State** : new/updateing/stop
   * **Description** : You can copy this demo and modify it to add podcast information you think is valuable.
   * **Highlights** : Impressive points
   * **Host Type** : Professional Research/Interest Club/Company/ Organization/Independent creator/Amateur player/......
   * **Languages** :
+  * **Remark** : https://podcasts.apple.com/xxx
+  * **Length** :
  
+### encourage | people
 * [Cyber Queens Podcast](https://www.cyberqueenspodcast.com/)
   * **Since-Latest** : 2022 ~ 2023/ing
   * **State** : updateing
@@ -26,16 +29,19 @@ The Landscape In 2022 the cyber security field still consists of 24% women and o
   * **Host Type** : Professional Research｜ Women's 
   * **Languages** : English
   * **Remark**:[The Cyber Queens Podcast on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-cyber-queens-podcast/id1643732283)
+  * **Length** : 40min
  
-* [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
-  * **Since-Latest** : ？~ 2024/ing 
+* [Hacker Valley Media | Home](https://hackervalley.com/)
+  * **Since-Latest** : 2019 ~ 2024/ing
   * **State** : updateing
-  * **Description** : "The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also includes interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world."
-  * **Highlights** : 1999 episodes+ ｜Fresh information｜
-  * **Host Type** : Independent creator？
+  * **Description** : "We are Ron Eddings and Chris Cochran from the Hacker Valley Studio podcast. We explore the human condition to inspire peak performance in cybersecurity. Join us on our quest to find inspirational stories and knowledge to elevate ourselves and our communities."
+  * **Highlights** : stories | people
+  * **Host Type** : Professional Research
   * **Languages** : English
-  * **Remark** : [CyberWire Daily on Apple Podcasts](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261)
+  * **Remark** : [Hacker Valley Studio on Apple Podcasts](https://podcasts.apple.com/us/podcast/hacker-valley-studio/id1471881997)
+  * **Length** : 25min
 
+### Experts share
 * [Cloud Ace Podcast | SANS Institute](https://www.sans.org/podcasts/cloud-ace/)
   * **Since-Latest** : 2022 ~ 2023/ing 
   * **State** : updateing
@@ -45,27 +51,85 @@ Cloud Ace podcast delivers actionable insight through interviews with some of th
   * **Host Type** : Professional Research 
   * **Languages** : English
   * **Remark** : [Cloud Ace on Apple Podcasts](https://podcasts.apple.com/us/podcast/cloud-ace/id1646566112)
+  * **Length** : 50min
+ 
+* [The Security Detail | a podcast by Audra Streetman and Kirsty Paine](https://thesecuritydetail.podbean.com/)
+  * **Since-Latest** : 2003 ~ 2024/ing
+  * **State** : updateing
+  * **Description** : “The Security Detail is a podcast series by SURGe, Splunk’s strategic security research team. Every other week, co-hosts Audra Streetman and Kirsty Paine interview security experts about the top cyber threats in different industries. Episodes will examine the cyber threat landscape in healthcare, education, manufacturing, the technology sector, retail and hospitality, telecommunications, and the public sector.”
+  * **Highlights** : professionals
+  * **Host Type** : Company/ Organization
+  * **Languages** : English
+  * **Remark** : [The Security Detail on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-security-detail/id1694608506)
+  * **Length** : 20min
+ 
+### Segmented technology areas
+* [Blueprint Podcast | SANS Institute](https://www.sans.org/podcasts/blueprint/)
+  * **Since-Latest** : 2000 ~ 2023/ing
+  * **State** : updateing
+  * **Description** : “Arm yourself with the most valuable and actionable content for advancing cyber defense skills. Hear from some truly interesting people changing the game in the blue teaming field, and ultimately learn actionable ways to take your cyber defense skills to the next level.”
+  * **Highlights** : blue teaming
+  * **Host Type** : Professional Research/Organization
+  * **Languages** : English
+  * **Remark** :  [Blueprint: Build the Best in Cyber Defense on Apple Podcasts](https://podcasts.apple.com/us/podcast/blueprint-build-the-best-in-cyber-defense/id1517113911)
+  * **Length** : 1h
+ 
+* [Security Cryptography Whatever](https://securitycryptographywhatever.com/)
+  * **Since-Latest** : 2000 ~ 2023/ing
+  * **State** : updateing
+  * **Description** : “Some cryptography & security people talk about security, cryptography, and whatever else is happening.”
+  * **Highlights** : cryptography
+  * **Host Type** : Professional Research
+  * **Languages** : English
+  * **Remark** :  [Security Cryptography Whatever on Apple Podcasts](https://podcasts.apple.com/us/podcast/security-cryptography-whatever/id1578405214)
+  * **Length** : 1h
+
+### Information news
+* [Cyber Security Headlines Archives - CISO Series](https://cisoseries.com/category/podcast/cyber-security-headlines/)
+  * **Since-Latest** : 2018 ~ 2024/ing
+  * **State** : updateing
+  * **Description** : “Cyber Security Headlines is a six-minute news podcast available every weekday at 6 A.M. ET. At the end of the week (Fridays at 3:30 P.M. ET) we invite a security practitioner to comment on the top stories on the companion Week in Review show (20 minutes) where viewers can participate live. Week in Review also made available via podcast feed.”
+  * **Highlights** : short news｜Week in Review
+  * **Host Type** : Organization
+  * **Languages** : English
+  * **Remark** : [Cyber Security Headlines on Apple Podcasts](https://podcasts.apple.com/us/podcast/cyber-security-headlines/id1527478719)
+  * **Length** : working days 6min｜Fridays 20min
+
+* [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
+  * **Since-Latest** : 2015 ~ 2024/ing 
+  * **State** : updateing
+  * **Description** : "The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also includes interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world."
+  * **Highlights** : 1999 episodes+ ｜Fresh information｜
+  * **Host Type** : Independent creator？
+  * **Languages** : English
+  * **Remark** : [CyberWire Daily on Apple Podcasts](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261)
+  * **Length** : 25min
+
+* [Risky Business - Risky Business](https://risky.biz/netcasts/risky-business/)
+  * **Since-Latest** : 2007 ~ 2023/ing
+  * **State** : updateing
+  * **Description** : “Risky Business is a weekly information security podcast featuring news and in-depth interviews with industry luminaries”
+  * **Highlights** : Long term 
+  * **Host Type** : Independent creator
+  * **Languages** : English
+  * **Remark** : [Risky Business on Apple Podcasts](https://podcasts.apple.com/au/podcast/risky-business/id216478078)
+  * **Length** : 50-60 min
 
 * [GRC | Security Now! Episode Archive](https://www.grc.com/securitynow.htm)
   * **Since-Latest** : 2005 ~ 2024/ing
   * **State** : updateing
-  * **Description** : " TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security. Sometimes we'll discuss something that just happened. Sometimes we'll talk about long-standing problems, concerns, or solutions. Either way, every week we endeavor to produce something interesting and important for every personal computer user."
+  * **Description** : "Security Now could be the most important show you watch all week. Security guru Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, joins Leo Laporte every week to guide us through the minefield of ransomware, viruses, cyber espionage, hacking, etc."/" TechTV's Leo Laporte and I spend somewhat shy of two hours each week to discuss important issues of personal computer security. Sometimes we'll discuss something that just happened. Sometimes we'll talk about long-standing problems, concerns, or solutions. Either way, every week we endeavor to produce something interesting and important for every personal computer user."
   * **Highlights** : Long term ｜Career length
-  * **Host Type** : Company
-  * **Languages** : English
- 
-* [GRC | Security Now! Episode Archive](https://www.grc.com/securitynow.htm)
-  * **Since-Latest** : ？ ~ 2024/ing
-  * **State** : updateing
-  * **Description** : "Security Now could be the most important show you watch all week. Security guru Steve Gibson, the man who coined the term spyware and created the first anti-spyware program, joins Leo Laporte every week to guide us through the minefield of ransomware, viruses, cyber espionage, hacking, etc."
-  * **Highlights** : 
   * **Host Type** : Professional Research
   * **Languages** : English
   * **Remark** :  [‎Security Now (Audio) on Apple Podcasts](https://podcasts.apple.com/us/podcast/security-now-audio/id79016499?uo=10)
+    [Security Now | A Podcast Covering Hot Topics in Tech Security | TWiT](https://twit.tv/shows/security-now)
+  * **Length** : 2h
     
 ## Reference link
 [Best 10 Cybersecurity Podcasts | Tripwire|2023](https://www.tripwire.com/state-of-security/best-cybersecurity-podcasts)
 
 ## Other 
 [10 Best Cybersecurity Youtube Channels of 2024](https://powerdmarc.com/best-cybersecurity-youtube-channels/)
+[10大热门网络安全播客频道 - 安全牛](https://www.aqniu.com/industry/100076.html)
 [Security Queens – Welcome to our Blog!](https://securityqueens.co.uk/)
