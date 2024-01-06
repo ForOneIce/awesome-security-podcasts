@@ -6,7 +6,6 @@ List of podcasts which are helpful for security engineers.
 ## Single episode podcast
 
 * [`Women in Cybersecurity with SheSec Pakistan on The HackerNoon Podcast`](https://hackernoon.com/zh/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%AD%E7%9A%84%E5%A5%B3%E6%80%A7%E4%B8%8E-shesec-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%9C%A8hackernoon-%E6%92%AD%E5%AE%A2)｜2022/04/13|23min
-* 
 
 ## Podcasts list
 
@@ -28,7 +27,7 @@ The Landscape In 2022 the cyber security field still consists of 24% women and o
   * **Languages** : English
   * **Remark**:[The Cyber Queens Podcast on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-cyber-queens-podcast/id1643732283)
  
- * [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
+* [CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast)
   * **Since-Latest** : ？~ 2024/ing 
   * **State** : updateing
   * **Description** : "The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also includes interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world."
@@ -37,7 +36,7 @@ The Landscape In 2022 the cyber security field still consists of 24% women and o
   * **Languages** : English
   * **Remark** : [CyberWire Daily on Apple Podcasts](https://podcasts.apple.com/us/podcast/cyberwire-daily/id1071831261)
 
- * [Cloud Ace Podcast | SANS Institute](https://www.sans.org/podcasts/cloud-ace/)
+* [Cloud Ace Podcast | SANS Institute](https://www.sans.org/podcasts/cloud-ace/)
   * **Since-Latest** : 2022 ~ 2023/ing 
   * **State** : updateing
   * **Description** :" Cloud Ace is your go-to podcast for in-depth expert discussions on all topics that touch cloud security. Information security professionals can tune in for fresh perspectives on building and managing secure cloud infrastructure, platforms, and applications. The insight shared by our experts on this podcast transcends cloud, making it valuable for professionals across all fields of cyber security.
