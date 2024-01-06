@@ -1,6 +1,7 @@
 # Awesome list of Important Podcasts for security engineers
 
 List of podcasts which are helpful for security engineers.
+![logo](https://github.com/ForOneIce/awesome-security-podcasts/blob/main/logo.jpeg)
 
 ---
 ## Single episode podcast
