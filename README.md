@@ -1,6 +1,7 @@
 # Awesome list of Important Podcasts for security engineers
 
 List of podcasts which are helpful for security engineers.
+
 ![logo](https://github.com/ForOneIce/awesome-security-podcasts/blob/main/logo.jpeg)
 
 ---
@@ -132,5 +133,7 @@ Cloud Ace podcast delivers actionable insight through interviews with some of th
 
 ## Other 
 [10 Best Cybersecurity Youtube Channels of 2024](https://powerdmarc.com/best-cybersecurity-youtube-channels/)
+
 [10大热门网络安全播客频道 - 安全牛](https://www.aqniu.com/industry/100076.html)
+
 [Security Queens – Welcome to our Blog!](https://securityqueens.co.uk/)
